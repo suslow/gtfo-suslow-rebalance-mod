@@ -164,7 +164,7 @@ No more being forced into the same meta loadouts - now you can enjoy experimenti
 #### **RAD LABS MEDUZA HEL Auto Sentry (GEAR_SentryGun_Auto_staggering | ID: 57)**
 - **Damage**: 0.8 → 1.0
 - **Range**: 10m → 18m effective range
-- **Ammo Cost**: 0.7 → 0.55
+- **Ammo Cost**: 0.7 → 0.35
 - **Sentry Tag Cost Multiplier**: 0.5 → 1.0
 - **Piercing**: 2 → 3 targets max
 - **Deployment Speed**: 1.0s → 0.5s

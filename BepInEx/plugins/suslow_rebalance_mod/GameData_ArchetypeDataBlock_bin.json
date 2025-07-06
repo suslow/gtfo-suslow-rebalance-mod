@@ -5333,7 +5333,7 @@
       "PrecisionDamageMulti": 0.834,
       "DefaultClipSize": 30,
       "DefaultReloadTime": 1.8,
-      "CostOfBullet": 0.55,
+      "CostOfBullet": 0.35,
       "ShotDelay": 0.08,
       "ShellCasingSize": 1.0,
       "ShellCasingSpeedRange": {
