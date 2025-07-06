@@ -71,8 +71,6 @@ No more being forced into the same meta loadouts - now you can enjoy experimenti
 #### **BUCKLAND SBS III Sawed-off Shotgun (GEAR_Sawed-Off_Shotgun_Semi | ID: 45)**
 - **Magazine Size**: 4 → 3 rounds
 
----
-
 #### **TR22 HANAWAY DMR (GEAR_DMR_Semi_v2 | ID: 25)**
 - **Damage**: 7.51 → 8.0
 - **Magazine Size**: 12 → 8 rounds
